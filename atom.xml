@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-11-10T07:00:22.146Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ksdfjgh ddfg  ;g</title>
+    <link href="http://example.com/2022/11/10/ksdfjgh-ddfg-g/"/>
+    <id>http://example.com/2022/11/10/ksdfjgh-ddfg-g/</id>
+    <published>2022-11-10T07:00:22.000Z</published>
+    <updated>2022-11-10T07:00:22.146Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>a space in side</title>
+    <link href="http://example.com/2022/11/10/a-space-in-side/"/>
+    <id>http://example.com/2022/11/10/a-space-in-side/</id>
+    <published>2022-11-10T06:57:49.000Z</published>
+    <updated>2022-11-10T06:57:49.325Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>side</title>
+    <link href="http://example.com/2022/11/10/side/"/>
+    <id>http://example.com/2022/11/10/side/</id>
+    <published>2022-11-10T06:57:13.000Z</published>
+    <updated>2022-11-10T06:57:13.481Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>LatexTest</title>
+    <link href="http://example.com/2022/11/09/LatexTest/"/>
+    <id>http://example.com/2022/11/09/LatexTest/</id>
+    <published>2022-11-09T07:46:20.000Z</published>
+    <updated>2022-11-09T11:57:26.136Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="多臂老虎机"><a href="#多臂老虎机" class="headerlink" title="多臂老虎机"></a>多臂老虎机</h1><blockquote><p>$Notions:$</p><ul><li>每次拉动拉杆要么得0，要么得到1，且<code>服从伯努利分布</code></li></ul></blockquote><h4 id="探索与利用的平衡"><a href="#探索与利用的平衡" class="headerlink" title="探索与利用的平衡"></a>探索与利用的平衡</h4><ul><li>$\epsilon$-贪婪算法</li><li>上置信界算法</li><li>汤普森采样算法</li></ul><h5 id="epsilon-采样"><a href="#epsilon-采样" class="headerlink" title="$\epsilon$-采样"></a>$\epsilon$-采样</h5><p> 每次以 $1-\epsilon $的概率选择最大期望的拉杆，以$\epsilon$ 的概率<code>随机</code> 选择一根杠杆。</p><p><img src="https://s2.loli.net/2022/11/08/cyEVQBXqzCbNwft.png" alt="image20221108155451281"></p><h5 id="上置信界算法"><a href="#上置信界算法" class="headerlink" title="上置信界算法"></a>上置信界算法</h5><h6 id="霍夫丁不等式"><a href="#霍夫丁不等式" class="headerlink" title="霍夫丁不等式"></a>霍夫丁不等式</h6><p> 令$\boldsymbol{X_{1…n}}$为n个$iid$变量，取值[0,1]，其期望值为$\bar{x_n} &#x3D; \frac{1}{n}\sum_{j&#x3D;1}^n\boldsymbol{X_j}$,则：</p><p>$$<br>\mathbb{P}{\mathbb{E}[\boldsymbol{X}]\geq \bar{x}_n+u} \leq e^{-2nu^2}. \label{a}<br>$$</p><p>鉴于每一时刻$t$采取的行动$a$ 产生的回报估计值$\hat{Q}_t(a)$(由前t-1次的真实Q值取平均所得)</p><p>\eqref{a}</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;多臂老虎机&quot;&gt;&lt;a href=&quot;#多臂老虎机&quot; class=&quot;headerlink&quot; title=&quot;多臂老虎机&quot;&gt;&lt;/a&gt;多臂老虎机&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;$Notions:$&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;每次拉动拉杆要么得0，要么得到1，且&lt;co</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
