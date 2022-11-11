@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/11/10/ksdfjgh-ddfg-g/</loc>
+    <loc>http://note.easyfox.fun/2022/11/10/test-file/</loc>
     
     <lastmod>2022-11-10</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/11/10/a-space-in-side/</loc>
+    <loc>http://note.easyfox.fun/2022/11/10/ksdfjgh-ddfg-g/</loc>
     
     <lastmod>2022-11-10</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/11/10/side/</loc>
+    <loc>http://note.easyfox.fun/2022/11/10/a-space-in-side/</loc>
     
     <lastmod>2022-11-10</lastmod>
     
@@ -29,7 +29,16 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/11/09/LatexTest/</loc>
+    <loc>http://note.easyfox.fun/2022/11/10/side/</loc>
+    
+    <lastmod>2022-11-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://note.easyfox.fun/2022/11/09/LatexTest/</loc>
     
     <lastmod>2022-11-09</lastmod>
     
@@ -37,10 +46,55 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://note.easyfox.fun/repository/index.html</loc>
+    
+    <lastmod>2022-11-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://note.easyfox.fun/categories/index.html</loc>
+    
+    <lastmod>2022-11-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://note.easyfox.fun/links/index.html</loc>
+    
+    <lastmod>2022-11-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://note.easyfox.fun/about/index.html</loc>
+    
+    <lastmod>2022-11-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://note.easyfox.fun/404.html</loc>
+    
+    <lastmod>2022-11-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2022-11-10</lastmod>
+    <loc>http://note.easyfox.fun/</loc>
+    <lastmod>2022-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

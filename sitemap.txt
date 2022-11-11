@@ -1,5 +1,11 @@
-http://example.com/2022/11/10/ksdfjgh-ddfg-g/
-http://example.com/2022/11/10/a-space-in-side/
-http://example.com/2022/11/10/side/
-http://example.com/2022/11/09/LatexTest/
-http://example.com/
+http://note.easyfox.fun/2022/11/10/test-file/
+http://note.easyfox.fun/2022/11/10/ksdfjgh-ddfg-g/
+http://note.easyfox.fun/2022/11/10/a-space-in-side/
+http://note.easyfox.fun/2022/11/10/side/
+http://note.easyfox.fun/2022/11/09/LatexTest/
+http://note.easyfox.fun/repository/index.html
+http://note.easyfox.fun/categories/index.html
+http://note.easyfox.fun/links/index.html
+http://note.easyfox.fun/about/index.html
+http://note.easyfox.fun/404.html
+http://note.easyfox.fun/

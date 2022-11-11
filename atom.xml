@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Easyfox</title>
   
+  <subtitle>Notes.</subtitle>
+  <link href="http://note.easyfox.fun/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
-  <updated>2022-11-10T07:00:22.146Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://note.easyfox.fun/"/>
+  <updated>2022-11-10T08:08:58.282Z</updated>
+  <id>http://note.easyfox.fun/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,9 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test file</title>
+    <link href="http://note.easyfox.fun/2022/11/10/test-file/"/>
+    <id>http://note.easyfox.fun/2022/11/10/test-file/</id>
+    <published>2022-11-10T08:08:58.000Z</published>
+    <updated>2022-11-10T08:08:58.282Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>ksdfjgh ddfg  ;g</title>
-    <link href="http://example.com/2022/11/10/ksdfjgh-ddfg-g/"/>
-    <id>http://example.com/2022/11/10/ksdfjgh-ddfg-g/</id>
+    <link href="http://note.easyfox.fun/2022/11/10/ksdfjgh-ddfg-g/"/>
+    <id>http://note.easyfox.fun/2022/11/10/ksdfjgh-ddfg-g/</id>
     <published>2022-11-10T07:00:22.000Z</published>
     <updated>2022-11-10T07:00:22.146Z</updated>
     
@@ -31,8 +44,8 @@
   
   <entry>
     <title>a space in side</title>
-    <link href="http://example.com/2022/11/10/a-space-in-side/"/>
-    <id>http://example.com/2022/11/10/a-space-in-side/</id>
+    <link href="http://note.easyfox.fun/2022/11/10/a-space-in-side/"/>
+    <id>http://note.easyfox.fun/2022/11/10/a-space-in-side/</id>
     <published>2022-11-10T06:57:49.000Z</published>
     <updated>2022-11-10T06:57:49.325Z</updated>
     
@@ -44,8 +57,8 @@
   
   <entry>
     <title>side</title>
-    <link href="http://example.com/2022/11/10/side/"/>
-    <id>http://example.com/2022/11/10/side/</id>
+    <link href="http://note.easyfox.fun/2022/11/10/side/"/>
+    <id>http://note.easyfox.fun/2022/11/10/side/</id>
     <published>2022-11-10T06:57:13.000Z</published>
     <updated>2022-11-10T06:57:13.481Z</updated>
     
@@ -57,8 +70,8 @@
   
   <entry>
     <title>LatexTest</title>
-    <link href="http://example.com/2022/11/09/LatexTest/"/>
-    <id>http://example.com/2022/11/09/LatexTest/</id>
+    <link href="http://note.easyfox.fun/2022/11/09/LatexTest/"/>
+    <id>http://note.easyfox.fun/2022/11/09/LatexTest/</id>
     <published>2022-11-09T07:46:20.000Z</published>
     <updated>2022-11-09T11:57:26.136Z</updated>
     
