@@ -4,8 +4,8 @@ http://copyright/2022/11/10/a-space-in-side/
 http://copyright/2022/11/10/side/
 http://copyright/2022/11/09/LatexTest/
 http://copyright/repository/index.html
-http://copyright/categories/index.html
 http://copyright/links/index.html
+http://copyright/categories/index.html
 http://copyright/about/index.html
 http://copyright/404.html
 http://copyright/
